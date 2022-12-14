@@ -24,7 +24,7 @@ THIS REPOSITORY FILE MAKE TOOLS AVAILABLE
 
 </p>
 
-![20200808_160757](https://github.com/Sagor-BCZ/BOMB/blob/main/orca-image-1254441166.jpeg)
+![20200808_160757](https://github.com/Sagor-BCZ/BOMB/blob/main/orca-image--1399361490.jpeg)
 
 ## <b>Installation On Termux</b>
 
